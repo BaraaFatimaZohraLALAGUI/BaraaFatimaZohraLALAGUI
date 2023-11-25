@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @BaraaFatimaZohraLALAGUI
-- I am a third year student at the national higher school of Artificial Intelligence
-- 👀 I’m interested in Data analytics
-- 🌱 I’m currently learning Electronics 
-- 💞️ I’m looking to collaborate on ANY PROJECTS related to AI
-- 📫 How to reach me : my LinkedIn profile is attached 
+# Baraa Fatima Zohra Lalagui
+`Student at The National Higher School of Artificial Intelligence`
+
+-  I'm a UI/UX and Graphic Designer
+-  I’m interested in Data analytics
+-  I’m currently learning Electronics and Arduino
+-  I’m looking to collaborate on ANY PROJECTS related to AI
+-  How to reach me : my LinkedIn profile is attached 
 
 <!---
 BaraaFatimaZohraLALAGUI/BaraaFatimaZohraLALAGUI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
