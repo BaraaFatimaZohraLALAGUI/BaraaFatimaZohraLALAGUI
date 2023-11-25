@@ -51,7 +51,7 @@
 
 #
 
-### 📊 Stats
+### Statistics 📊 
 <div align="left">
   <table align="center">
     <tr>
