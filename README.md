@@ -57,7 +57,7 @@
 ![Baraa's Guthub stats](https://github-readme-stats.vercel.app/api/top-langs?username=BaraaFatimaZohraLALAGUI&show_icons=true&theme=omni)
 
 
-
+<br clear="both">
 
 <!---
 BaraaFatimaZohraLALAGUI/BaraaFatimaZohraLALAGUI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
