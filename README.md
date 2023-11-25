@@ -5,7 +5,6 @@
 -  I’m interested in Data analytics 
 -  I’m currently learning Electronics and Arduino 
 -  I’m looking to collaborate on ANY PROJECTS related to AI
--  How to reach me : my LinkedIn profile is attached
 
 #
 ### Languages
@@ -32,7 +31,7 @@
 
 #
 
-### Contact
+### Contact me 
 
 <div align="left">
   <a href="https://www.instagram.com/baraalalagui/" target="_blank">
