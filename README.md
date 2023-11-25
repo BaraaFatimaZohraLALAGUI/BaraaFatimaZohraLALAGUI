@@ -56,7 +56,7 @@
   <table align="center">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=BaraaFatimaZohraLALAGUI&show_icons=true&theme=omni" alt="Baraa's GitHub stats" width="320">
+        <img src="https://github-readme-stats.vercel.app/api?username=BaraaFatimaZohraLALAGUI&show_icons=true&include_all_commits=true&count_private=true&theme=omni" alt="Baraa's GitHub stats" width="320">
         <br></br>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=BaraaFatimaZohraLALAGUI&theme=omni" alt="GitHub streak" width="320">
       </td>
