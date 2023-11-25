@@ -62,7 +62,7 @@
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=BaraaFatimaZohraLALAGUI&theme=omni" alt="GitHub streak" width="320">
       </td>
       <td align="center" >
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaraaFatimaZohraLALAGUI&layout=compact&theme=omni" alt="Top Langs" width="320">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BaraaFatimaZohraLALAGUI&layout=compact&theme=omni" alt="Top Langs" width="320">
       </td>
 </div>
     
