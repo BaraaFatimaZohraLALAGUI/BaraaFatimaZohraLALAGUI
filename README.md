@@ -1,11 +1,14 @@
-# Baraa Fatima Zohra Lalagui
+# ✨ Baraa Fatima Zohra Lalagui ✨
 `Student at The National Higher School of Artificial Intelligence`
 
--  I'm a UI/UX and Graphic Designer
--  I’m interested in Data analytics
--  I’m currently learning Electronics and Arduino
+-  I'm a UI/UX and Graphic Designer 🌸
+-  I’m interested in Data analytics 
+-  I’m currently learning Electronics and Arduino 
 -  I’m looking to collaborate on ANY PROJECTS related to AI
 -  How to reach me : my LinkedIn profile is attached
+
+#
+### Languages
 
 <div align="left">
   <img width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
@@ -27,10 +30,11 @@
   <img width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
 </div>
 
-###
+#
+
+### Contact
 
 <div align="left">
-
   <a href="https://www.instagram.com/baraalalagui/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -46,7 +50,12 @@
    
 </div>
 
-###
+#
+
+### 📊 Stats
+![Baraa's Guthub stats](https://github-readme-stats.vercel.app/api?username=BaraaFatimaZohraLALAGUI&show_icons=true&include_all_commits=true&count_private=true&theme=omni)
+
+
 
 
 <!---
