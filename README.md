@@ -26,7 +26,11 @@
   <img width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
   <img width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
+  <img width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />  
+  <img width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-plain.svg" height="30" alt="apache logo"  />  
+  <img width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-plain.svg" height="30" alt="figma logo"  />  
+  <img width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" height="30" alt="illustrator logo"  />
+  
 </div>
 
 #
@@ -51,8 +55,9 @@
 
 #
 
-### Statistics 📊 
+## **Github Profile stats** 📊
 <div align="left">
+ 
   <table align="center">
     <tr>
       <td>
