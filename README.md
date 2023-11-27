@@ -1,13 +1,14 @@
 # ✨ Baraa Fatima Zohra Lalagui ✨
 `Student at The National Higher School of Artificial Intelligence`
 
--  I'm a UI/UX and Graphic Designer 🌸
--  I’m interested in Data analytics 
--  I’m currently learning Electronics and Arduino 
+-  I'm a ***UI/UX*** and ***Graphic Designer 🌸***
+-  I’m interested in ***Data analytics*** 
+-  I’m currently learning ***Electronics and Arduino***
+-  I'm learning Mobile development 
 -  I’m looking to collaborate on ANY PROJECTS related to AI
 
 #
-### Languages
+### ***Languages***
 
 <div align="left">
   <img width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
@@ -35,7 +36,7 @@
 
 #
 
-### Contact me 
+### ***Contact me***
 
 <div align="left">
   <a href="https://www.instagram.com/baraalalagui/" target="_blank">
@@ -55,7 +56,7 @@
 
 #
 
-## **Github Profile stats** 📊
+## ***Github Profile stats*** 📊
 <div align="left">
  
   <table align="center">
