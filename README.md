@@ -7,8 +7,8 @@
 -  I'm learning Mobile development 
 -  I’m looking to collaborate on ANY PROJECTS related to AI
 
-#
-### ***Languages***
+
+## ***Languages***
 
 <div align="left">
   <img width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
@@ -34,9 +34,8 @@
   
 </div>
 
-#
 
-### ***Contact me***
+## ***Contact me***
 
 <div align="left">
   <a href="https://www.instagram.com/baraalalagui/" target="_blank">
