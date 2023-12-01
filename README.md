@@ -70,8 +70,7 @@
       </td>
   </table>
 </div>
-    
-<br clear="both">
+  
 
 <!---
 BaraaFatimaZohraLALAGUI/BaraaFatimaZohraLALAGUI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
