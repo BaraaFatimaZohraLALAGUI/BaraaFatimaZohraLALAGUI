@@ -2,11 +2,13 @@
 `Student at The National Higher School of Artificial Intelligence`
 
 -  I'm a ***UI/UX*** and ***Graphic Designer 🌸***
+-  I'm a knowledge thirst, I am trying to know as much as I can before diving and specializing in one domain 
 -  I’m interested in ***Data analytics*** 
--  I’m currently learning ***Electronics and Arduino***
--  I'm learning Mobile development 
+-  Interested in ***Electronics and Arduino***
+-  I am learning blockchain technology
+-  Currently working on a mobile app called "Fallah"
 -  I’m looking to collaborate on ANY PROJECTS related to AI
-
+  
 
 ## ***Languages***
 
