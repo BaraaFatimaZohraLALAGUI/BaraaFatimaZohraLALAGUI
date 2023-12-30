@@ -5,7 +5,6 @@
 -  I'm a knowledge thirst, I am trying to know as much as I can before diving and specializing in one domain 
 -  I’m interested in ***Data analytics*** 
 -  Interested in ***Electronics and Arduino***
--  I am learning blockchain technology
 -  Currently working on a mobile app called "Fallah"
 -  I’m looking to collaborate on ANY PROJECTS related to AI
   
