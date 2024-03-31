@@ -3,9 +3,10 @@
 
 -  I'm a ***UI/UX*** and ***Graphic Designer 🌸***
 -  I'm a knowledge thirst, I am trying to know as much as I can before diving and specializing in one domain 
--  I’m interested in ***Data analytics*** 
--  Interested in ***Electronics and Arduino***
+-  I’m interested in ***Machine learning and Neural Networks*** 
+-  Interested in ***Electronics***
 -  Currently working on a mobile app called "Fallah"
+-  Intern at Technocolab
 -  I’m looking to collaborate on ANY PROJECTS related to AI
   
 
