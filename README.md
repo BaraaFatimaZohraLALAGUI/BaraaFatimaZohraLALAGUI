@@ -5,9 +5,8 @@
 -  I'm a knowledge thirst, I am trying to know as much as I can before diving and specializing in one domain 
 -  I’m interested in ***Machine learning and Neural Networks*** 
 -  Interested in ***Electronics***
--  Currently working on a mobile app called "Fallah"
--  Intern at Technocolab
--  I’m looking to collaborate on ANY PROJECTS related to AI
+-  Currently working on a mobile app called "Fallah" as a UI/UX designer and Mobile Developer
+-  Intern at Technocolabs
   
 
 ## ***Languages***
@@ -40,17 +39,17 @@
 ## ***Contact me***
 
 <div align="left">
-  <a href="https://www.instagram.com/baraalalagui/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a href="https://www.instagram.com/lalaguibaraa/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=white&logoColor=fb3580&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="baraa.lalagui@ensia.edu.dz" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=white&logoColor=fb3580&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://discord.com/channels/@baraalalagui" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=white&logoColor=fb3580&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="https://www.linkedin.com/in/baraa-lalagui/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=white&logoColor=fb3580&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
    
 </div>
