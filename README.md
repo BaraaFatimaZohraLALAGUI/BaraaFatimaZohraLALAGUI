@@ -6,7 +6,7 @@
 -  I’m interested in ***Machine learning and Neural Networks*** 
 -  Interested in ***Electronics***
 -  Currently working on a mobile app called "Fallah" as a UI/UX designer and Mobile Developer
--  Intern at Technocolabs
+-  Machine learning Intern at Technocolabs
   
 
 ## ***Languages***
