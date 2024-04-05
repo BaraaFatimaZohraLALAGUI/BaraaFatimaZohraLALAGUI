@@ -2,7 +2,7 @@
 `Student at The National Higher School of Artificial Intelligence`
 
 -  I'm a ***UI/UX*** and ***Graphic Designer 🌸***
--  I'm a knowledge thirst, I want to learn as much as I possible before diving and specializing in one domain but I'm still open to any opportunities
+-  I'm open to any opportunities
 -  I’m interested in ***Machine learning and Neural Networks*** 
 
   
