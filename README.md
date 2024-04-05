@@ -3,7 +3,8 @@
 
 -  I'm a ***UI/UX*** and ***Graphic Designer 🌸***
 -  I'm open to any opportunities
--  I’m interested in ***Machine learning and Neural Networks*** 
+-  I’m interested in ***Machine learning and Neural Networks***
+-  contact me via *lalaguibaraa@gmail.com*
 
   
 
@@ -40,7 +41,7 @@
   <a href="https://www.instagram.com/lalaguibaraa/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=white&logoColor=fb3580&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="baraa.lalagui@ensia.edu.dz" target="_blank">
+  <a href="lalaguibaraa@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=white&logoColor=fb3580&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://discord.com/channels/@baraalalagui" target="_blank">
