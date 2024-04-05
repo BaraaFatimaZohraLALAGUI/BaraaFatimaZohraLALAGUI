@@ -2,11 +2,9 @@
 `Student at The National Higher School of Artificial Intelligence`
 
 -  I'm a ***UI/UX*** and ***Graphic Designer 🌸***
--  I'm a knowledge thirst, I am trying to know as much as I can before diving and specializing in one domain 
+-  I'm a knowledge thirst, I want to learn as much as I possible before diving and specializing in one domain but I'm still open to any opportunities
 -  I’m interested in ***Machine learning and Neural Networks*** 
--  Interested in ***Electronics***
--  Currently working on a mobile app called "Fallah" as a UI/UX designer and Mobile Developer
--  Machine learning Intern at Technocolabs
+
   
 
 ## ***Languages***
