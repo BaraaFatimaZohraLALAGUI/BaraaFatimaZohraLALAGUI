@@ -5,6 +5,8 @@
 -  I'm open to any opportunities
 -  I’m interested in ***Machine learning and Neural Networks***
 -  contact me via *lalaguibaraa@gmail.com*
+-  Mobile Developer (flutter)
+-  MERN Stack Developer
 
   
 
