@@ -2,7 +2,6 @@
 `Student at The National Higher School of Artificial Intelligence`
 
 -  I'm a ***UI/UX*** and ***Graphic Designer 🌸***
--  I'm open to any opportunities
 -  I’m interested in ***Machine learning and Deep Learning***
 -  contact me via *lalaguibaraa@gmail.com*
 -  Mobile Developer (flutter)
@@ -58,7 +57,7 @@
 
 #
 
-## ***Github Profile stats*** 📊
+## ***Github Profile stats*** 
 <div align="left">
  
   <table align="center">
