@@ -33,6 +33,19 @@
   <img width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-plain.svg" height="30" alt="apache logo"  />  
   <img width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height="30" alt="figma logo"  />  
   <img width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" height="30" alt="illustrator logo"  />
+  <img width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-line.svg" height="30" alt="laravel logo"  />
+  <img width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" height="30" alt="latex logo"  />
+  <img width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" height="30" alt="matplotlib logo"  />
+  <img width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
+  <img width="30px" style="padding-right:10px;" src="https://github.com/mongodb-js/leaf/blob/master/mongodb-leaf.svg" height="30" alt="mongodb logo"  />
+  <img width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" height="30" alt="opencv logo"  />
+  <img width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" height="30" alt="oracle logo"  />
+  <img width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
+  <img width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" height="30" alt="plotly logo"  />
+  <img width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" height="30" alt="rstudio logo"  />
+  <img width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" height="30" alt="selenium logo"  />
+  <img width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
   
 </div>
 
