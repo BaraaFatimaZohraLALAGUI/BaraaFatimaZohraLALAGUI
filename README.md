@@ -4,8 +4,9 @@
 -  I'm a ***UI/UX*** and ***Graphic Designer 🌸***
 -  I’m interested in ***Machine learning and Deep Learning***
 -  contact me via *lalaguibaraa@gmail.com*
--  Mobile Developer (flutter)
+
 <!-----
+-  Mobile Developer (flutter)
 -  MERN Stack Developer
 ----->
   
