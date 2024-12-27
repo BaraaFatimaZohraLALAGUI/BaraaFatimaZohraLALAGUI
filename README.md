@@ -1,9 +1,11 @@
 # ✨ Baraa Fatima Zohra Lalagui ✨
 `Student at The National Higher School of Artificial Intelligence`
 
--  I'm a ***UI/UX*** and ***Graphic Designer 🌸***
--  I’m interested in ***Machine learning and Deep Learning***
--  contact me via *lalaguibaraa@gmail.com*
+- 🌟 I’m a **Data Scientist**.
+- 🎨 Passionate *UI/UX* and *Graphic Designer* 🌸.
+- 🤖 Enthusiastic about **Machine Learning**, **Deep Learning**, and **exploring all fields of AI**.
+- 🤖 *Robotics* and *electronics* enthusiast.
+- 📬 Feel free to contact me at *lalaguibaraa@gmail.com*.
 
 <!-----
 -  Mobile Developer (flutter)
