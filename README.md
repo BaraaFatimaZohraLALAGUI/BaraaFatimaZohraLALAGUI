@@ -1,4 +1,4 @@
-# ✨ Baraa Fatima Zohra Lalagui ✨
+# ✨ Baraa Fatima Zohra LALAGUI ✨
 `Student at The National Higher School of Artificial Intelligence`
 
 - 🌟 I’m a **Data Scientist**.
