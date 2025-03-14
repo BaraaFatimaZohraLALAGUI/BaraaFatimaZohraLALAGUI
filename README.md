@@ -4,7 +4,7 @@
 - 🌟 I’m a **Data Scientist**.
 - 🎨 Passionate *UI/UX* and *Graphic Designer* 🌸.
 - 🤖 Enthusiastic about **Machine Learning**, **Deep Learning**, and **exploring all fields of AI**.
-- 🤖 *Robotics* and *electronics* enthusiast.
+- 🤖 *Robotics* and *electronics* are my passion.
 - 📬 Feel free to contact me at *lalaguibaraa@gmail.com*.
 
 <!-----
