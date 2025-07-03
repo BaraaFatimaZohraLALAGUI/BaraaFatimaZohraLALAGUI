@@ -3,7 +3,6 @@
 
 - 🌟 I’m a **Data Scientist**,
 - work as ML engineer at TTS
-- work as a project manager at AT incubator
 - 🤖 currently learning anything related to artificial intelligence and robotics
 - 🤖 Open to work on any related projects
 - 📬 Feel free to contact me at *lalaguibaraa@gmail.com*.
