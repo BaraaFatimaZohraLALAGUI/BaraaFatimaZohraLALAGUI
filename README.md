@@ -1,3 +1,4 @@
+<!---
 # ✨ Baraa Fatima Zohra LALAGUI ✨
 `Student at The National Higher School of Artificial Intelligence`
 
@@ -6,7 +7,7 @@
 - 🤖 currently learning anything related to artificial intelligence and robotics
 - 🤖 Open to work on any related projects
 - 📬 Feel free to contact me at *lalaguibaraa@gmail.com*.
-<!-----
+
 - 🌟 I’m a **Data Scientist**.
 - 🎨 Passionate *UI/UX* and *Graphic Designer* 🌸.
 - 🤖 Enthusiastic about **Machine Learning**, **Deep Learning**, and **exploring all fields of AI**.
@@ -14,7 +15,7 @@
 - 📬 Feel free to contact me at *lalaguibaraa@gmail.com*.
 -  Mobile Developer (flutter)
 -  MERN Stack Developer
------>
+
   
 
 ## ***Languages and tools***
@@ -94,7 +95,7 @@
 </div>
   
 
-<!---
+
 BaraaFatimaZohraLALAGUI/BaraaFatimaZohraLALAGUI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
